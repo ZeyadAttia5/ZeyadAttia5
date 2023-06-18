@@ -84,7 +84,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/ZeyadAttia5" target="_blank">
+<a href="https://linkedin.com/in/zeyad-attia-a168b1201" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  zeyad-attia-a168b1201-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
