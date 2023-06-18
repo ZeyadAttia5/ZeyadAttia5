@@ -36,7 +36,7 @@
     ![HTML5](https://img.shields.io/badge/Html%20-%2314354C.svg?style=for-the-badge&logo=html&logoColor=white)
     ![CSS3](https://img.shields.io/badge/Css%20-%2314354C.svg?style=for-the-badge&logo=css&logoColor=white)
     ![Javascript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
-    ![ARM](https://img.shields.io/badge/Arm%20-%232370ED.svg?style=for-the-badge&logo=arm&logoColor=white)
+    ![ARM](https://img.shields.io/badge/Arm%20-%232370ED.svg?style=for-the-badge&logo=arm&logoColor=orange)
     ![Haskell](https://img.shields.io/badge/Haskell%20-%2314354C.svg?style=for-the-badge&logo=haskell&logoColor=white)
     ![Prolog](https://img.shields.io/badge/prolog%20-%2314354C.svg?style=for-the-badge&logo=prolog&logoColor=gray)
     ![numpy](https://img.shields.io/badge/Numpy%20-%232370ED.svg?style=for-the-badge&logo=numpy&logoColor=white)
