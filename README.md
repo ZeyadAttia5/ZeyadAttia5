@@ -11,14 +11,15 @@
 	
 # <picture><img src = "resources/about_me.gif" width = 70px></picture> **About me**
 
-<br>
+<!-- <br>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&multiline=true&repeat=false&width=550&height=191&lines=I'm+currently+studying+Computer+Science+and+Engineering%2C;with+a+passion+for+embedded+systems%2C+Linux%2C+and+data;structures+and+algorithms.;I'm+willing+to+connect+with+fellow+enthusiasts%2C+collaborate;on+exciting+projects%2C+and+contribute+to+the+ever-evolving;tech+community.;" alt="Typing SVG" /></a>
-</p>
-
- <!-- <p><img src="/resources/chip-svgrepo.svg" style="height:15px;">&nbsp;&nbsp;I am Learning Embedded Systems Engineering</p>
- <p>🤝 I am willing to collaborate on innovative project ideas</p> -->
- <!-- <p>🚀 I love rocket science</p> -->
+</p> -->
+  <p>🎓 I am a Computer Science and Engineering Student
+  <p><img src="/resources/chip-svgrepo.svg" style="height:15px;">&nbsp;&nbsp;I am Learning Embedded Systems</p>
+  <p>🤝 I am willing to collaborate on exciting projects</p>
+  <p>📧 Contact me at <a href="mailto:zeyad.attia@ieee.org">zeyad.attia@ieee.org</a></p>
+  <p>🚀 I love rocket science</p>
 
 <br><br>
 
