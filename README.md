@@ -43,6 +43,7 @@
     ![Prolog](https://img.shields.io/badge/prolog%20-%2314354C.svg?style=for-the-badge&logo=prolog&logoColor=gray)
     ![numpy](https://img.shields.io/badge/Numpy%20-%232370ED.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![Qiskit](https://img.shields.io/badge/qiskit-%23F05033.svg?style=for-the-badge&logo=qiskit&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>   
