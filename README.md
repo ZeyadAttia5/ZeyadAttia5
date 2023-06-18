@@ -79,44 +79,9 @@
 
 <br>
 <br>
-
-# <b> Let's Connect..!</b><img src="/resources/handshake.gif" width ="90">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-  <a href="https://linkedin.com/in/zeyad-attia-a168b1201" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</li>
-
-<br>
-
-<li>
-<a href="mailto:zeyad.attia@ieee.org" target="_blank"</a>
-<img src="https://img.shields.io/badge/gmail:zeyad.attia@ieee.org-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
 <br>
 <!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br> -->
 
 <!-- Credit: [Abdul Khalid](https://github.com/0xabdulkhalid) -->
 
