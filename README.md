@@ -95,7 +95,7 @@
 
 <li>
 <a href="mailto:zeyad.attia@ieee.org" target="_blank"</a>
-<img src="https://img.shields.io/badge/gmail:  zeyad.attia@ieee.org-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:zeyad.attia@ieee.org-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
