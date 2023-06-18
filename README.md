@@ -1,5 +1,9 @@
 # <picture><img src = "resources/about_me.gif" width = 70px></picture> **About Me**
-🎓 I am a Computer Science and Engineering Student<br><br>I am Learning Embedded Systems<br><br>🤝 I am willing to collaborate on exciting projects<br><br>📧 You can contact me at zeyad.attia@ieee.org<br><br>🚀 I love rocket science
+🎓 I am a Computer Science and Engineering Student<br><br>
+<p><img src="/resources/chip-svgrepo.svg" style="width:18px;">&nbsp;I am Learning Embedded Systems<br><br>
+🤝 I am willing to collaborate on exciting projects<br><br>
+📧 You can contact me at zeyad.attia@ieee.org<br><br>
+🚀 I love rocket science
 
 
 ## 🌐 Socials:
