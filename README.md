@@ -32,7 +32,7 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=yellow)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![ARM](https://img.shields.io/badge/Arm%20-%232370ED.svg?style=for-the-badge&logo=arm&logoColor=orange)
-    ![Autosar](https://img.shields.io/badge/Autosar%20-%232370ED.svg?style=for-the-badge&logo=autosar&logoColor=yellow)
+    <!-- ![Autosar](https://img.shields.io/badge/Autosar%20-%232370ED.svg?style=for-the-badge&logo=autosar&logoColor=yellow) -->
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white)
     ![AVR](https://img.shields.io/badge/Avr%20-%232370ED.svg?style=for-the-badge&logo=avr&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=blue)
@@ -78,7 +78,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="/resources/handshake.gif" width ="80">
+<!-- ## <b> Let's Connect..!</b><img src="/resources/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -113,7 +113,7 @@
 
 ---
 
-<br>
+<br> -->
 
 <!-- Credit: [Abdul Khalid](https://github.com/0xabdulkhalid) -->
 
