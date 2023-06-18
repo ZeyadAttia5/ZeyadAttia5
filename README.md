@@ -29,16 +29,16 @@
 <p align="center">
 
 - 
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=yellow)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=blue)
     ![HTML5](https://img.shields.io/badge/Html%20-%2314354C.svg?style=for-the-badge&logo=html&logoColor=white)
     ![CSS3](https://img.shields.io/badge/Css%20-%2314354C.svg?style=for-the-badge&logo=css&logoColor=white)
-    ![Javascript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
     ![ARM](https://img.shields.io/badge/Arm%20-%232370ED.svg?style=for-the-badge&logo=arm&logoColor=white)
     ![Haskell](https://img.shields.io/badge/Haskell%20-%2314354C.svg?style=for-the-badge&logo=haskell&logoColor=white)
-    ![Prolog](https://img.shields.io/badge/prolog%20-%2314354C.svg?style=for-the-badge&logo=prolog&logoColor=white)
+    ![Prolog](https://img.shields.io/badge/prolog%20-%2314354C.svg?style=for-the-badge&logo=prolog&logoColor=gray)
     ![numpy](https://img.shields.io/badge/Numpy%20-%232370ED.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![AVR](https://img.shields.io/badge/Avr%20-%232370ED.svg?style=for-the-badge&logo=avr&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
