@@ -14,7 +14,7 @@
   <p>🎓 I am a Computer Science and Engineering Student
   <p><img src="/resources/chip-svgrepo.svg" style="width:18px;">&nbsp;&nbsp;I am Learning Embedded Systems</p>
   <p>🤝 I am willing to collaborate on exciting projects</p>
-  <p>📧 Contact me at <a href="mailto:zeyad.attia@ieee.org">zeyad.attia@ieee.org</a></p>
+  <p>📧 You can contact me at <a href="mailto:zeyad.attia@ieee.org">zeyad.attia@ieee.org</a></p>
   <p>🚀 I love rocket science</p>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
