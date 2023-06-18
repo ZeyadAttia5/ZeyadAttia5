@@ -17,7 +17,7 @@
  <p><img src="/resources/chip-svgrepo.svg" style="height:15px;">&nbsp;&nbsp;I am Learning Embedded Systems Engineering</p>
  <p>🤝 I am willing to collaborate on innovative project ideas</p>
  <p>📧 contact me at zeyad.attia@ieee.org</p>
- <!-- <p>☕ I drink a lot of coffee</p> -->
+ <p>🚀 I love rocket science</p>
 
 <br><br>
 
