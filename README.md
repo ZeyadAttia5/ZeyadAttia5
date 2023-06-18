@@ -9,7 +9,7 @@
 
 
 	
-# <picture><img src = "resources/about_me.gif" width = 50px></picture> **About me**
+# <picture><img src = "resources/about_me.gif" width = 70px></picture> **About me**
 
 <br>
 <p align="center">
@@ -24,7 +24,7 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="45"><b> Tech Stack</b>
 <br>
 
 <p align="center">
@@ -79,7 +79,7 @@
 <br>
 <br>
 
-<!-- ## <b> Let's Connect..!</b><img src="/resources/handshake.gif" width ="80">
+# <b> Let's Connect..!</b><img src="/resources/handshake.gif" width ="90">
 <br>
 <div align='left'>
 
@@ -94,7 +94,7 @@
 <br>
 
 <li>
-<a href="mailto:zeyad.attia@ieee.org" target="_blank">
+<a href="mailto:zeyad.attia@ieee.org">zeyad.attia@ieee.org</a>
 <img src="https://img.shields.io/badge/gmail:  zeyad.attia@ieee.org-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -103,6 +103,7 @@
 </div>
 
 <br>
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
