@@ -12,7 +12,7 @@
 ## <picture><img src = "resources/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-<p align="center" style="color:white;">
+<p align="center" style="color:cyan;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&multiline=true&repeat=false&width=550&height=191&lines=I'm+currently+studying+Computer+Science+and+Engineering%2C;with+a+passion+for+embedded+systems%2C+Linux%2C+and+data;structures+and+algorithms.;I'm+willing+to+connect+with+fellow+enthusiasts%2C+collaborate;on+exciting+projects%2C+and+contribute+to+the+ever-evolving;tech+community.;" alt="Typing SVG" /></a>
 
   📧 You can contact me at <a href="mailto:zeyad.attia@ieee.org">zeyad.attia@ieee.org</a>
