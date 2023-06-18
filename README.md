@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
- <p><img src="/resources/chip-svgrepo.svg" style="height:15px;"> I am learning Embedded Systems Engineering</p>
+ <p><img src="/resources/chip-svgrepo.svg" style="height:15px; cursor: none;"> I am learning Embedded Systems Engineering</p>
  ☕ I drink a lot of coffee
 
 <br><br>
