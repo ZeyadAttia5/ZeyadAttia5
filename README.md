@@ -33,7 +33,7 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![ARM](https://img.shields.io/badge/Arm%20-%232370ED.svg?style=for-the-badge&logo=arm&logoColor=orange)
     ![AVR](https://img.shields.io/badge/Avr%20-%232370ED.svg?style=for-the-badge&logo=avr&logoColor=white)
-    ![Autosar](https://img.shields.io/badge/Autosar%20-%232370ED.svg?style=for-the-badge&logo=autosar&logoColor=white)
+    ![Autosar](https://img.shields.io/badge/Autosar%20-%232370ED.svg?style=for-the-badge&logo=autosar&logoColor=yellow)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=blue)
     ![HTML5](https://img.shields.io/badge/Html5%20-%2314354C.svg?style=for-the-badge&logo=html5&logoColor=white)
