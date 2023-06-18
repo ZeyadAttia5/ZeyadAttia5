@@ -12,8 +12,10 @@
 ## <picture><img src = "resources/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-<p align="center">
-  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&multiline=true&repeat=false&width=550&height=191&lines=I'm+currently+studying+Computer+Science+and+Engineering%2C;with+a+passion+for+embedded+systems%2C+Linux%2C+and+data;structures+and+algorithms.;I'm+willing+to+connect+with+fellow+enthusiasts%2C+collaborate;on+exciting+projects%2C+and+contribute+to+the+ever-evolving;tech+community.;%F0%9F%93%A7+you+can+contact+me+at+zeyad.attia%40ieee.org" alt="Typing SVG" /></a>
+<p align="center" style="color:white;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&multiline=true&repeat=false&width=550&height=191&lines=I'm+currently+studying+Computer+Science+and+Engineering%2C;with+a+passion+for+embedded+systems%2C+Linux%2C+and+data;structures+and+algorithms.;I'm+willing+to+connect+with+fellow+enthusiasts%2C+collaborate;on+exciting+projects%2C+and+contribute+to+the+ever-evolving;tech+community.;" alt="Typing SVG" /></a>
+
+  📧 You can contact me at <a href="mailto:zeyad.attia@ieee.org">zeyad.attia@ieee.org</a>
 </p>
 
  <!-- <p><img src="/resources/chip-svgrepo.svg" style="height:15px;">&nbsp;&nbsp;I am Learning Embedded Systems Engineering</p>
