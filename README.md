@@ -15,7 +15,7 @@
 
 <br>
 - 
-- <img src="/resources/chip-svgrepo.svg" style="height:10px;"> I am learning Embedded Systems Engineering
+- <p><img src="/resources/chip-svgrepo.svg" style="height:20px;"> I am learning Embedded Systems Engineering</p>
 - 
 - ☕ I drink a lot of coffee
 
