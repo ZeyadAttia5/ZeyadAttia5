@@ -9,7 +9,7 @@
 
 
 	
-## <picture><img src = "resources/about_me.gif" width = 50px></picture> **About me**
+# <picture><img src = "resources/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 <p align="center">
