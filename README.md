@@ -4,10 +4,6 @@
 
 
 <!-- Computer+Science+Student;Embedded+Systems+Engineer;Learning+Linux; Learning+Web+Development -->
-<br>
-
-
-
 	
 # <picture><img src = "resources/about_me.gif" width = 70px></picture> **About me**
 
@@ -20,8 +16,6 @@
   <p>🤝 I am willing to collaborate on exciting projects</p>
   <p>📧 Contact me at <a href="mailto:zeyad.attia@ieee.org">zeyad.attia@ieee.org</a></p>
   <p>🚀 I love rocket science</p>
-
-<br><br>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
