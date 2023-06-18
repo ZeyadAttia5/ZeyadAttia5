@@ -38,12 +38,12 @@
     ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=blue)
     ![HTML5](https://img.shields.io/badge/Html5%20-%2314354C.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/Css3%20-%2314354C.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![Javascript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
+    ![Qiskit](https://img.shields.io/badge/qiskit-%23F05033.svg?style=for-the-badge&logo=qiskit&logoColor=white)
     ![Haskell](https://img.shields.io/badge/Haskell%20-%2314354C.svg?style=for-the-badge&logo=haskell&logoColor=white)
     ![Prolog](https://img.shields.io/badge/prolog%20-%2314354C.svg?style=for-the-badge&logo=prolog&logoColor=gray)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![numpy](https://img.shields.io/badge/Numpy%20-%232370ED.svg?style=for-the-badge&logo=numpy&logoColor=white)
-    ![Qiskit](https://img.shields.io/badge/qiskit-%23F05033.svg?style=for-the-badge&logo=qiskit&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>   
