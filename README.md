@@ -41,16 +41,8 @@
     ![numpy](https://img.shields.io/badge/Numpy%20-%232370ED.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![Javascript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>   
 </p>
 
-<br>
-<br>
-
------
-
-<br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
