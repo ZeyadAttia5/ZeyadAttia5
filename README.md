@@ -2,7 +2,7 @@
 🎓 I am a Computer Science and Engineering Student<br><br>
 <img src="/resources/chip-svgrepo.svg" style="width:18px;">&nbsp;I am Learning Embedded Systems<br><br>
 🤝 I am willing to collaborate on exciting projects<br><br>
-📧 You can contact me at zeyad.attia@ieee.org<br><br>
+📧 You can contact me at zeyad.attia102@gmail.com<br><br>
 🚀 I love rocket science
 
 
