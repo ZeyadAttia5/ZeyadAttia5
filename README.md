@@ -1,9 +1,9 @@
 # <picture><img src = "resources/about_me.gif" width = 70px></picture> **About Me**
-🎓 I am a Computer Science and Engineering Student<br><br>
-<img src="/resources/chip-svgrepo.svg" style="width:18px;">&nbsp;I am Learning Embedded Systems<br><br>
-🤝 I am willing to collaborate on exciting projects<br><br>
+🎓 CSE student passionate about embedded systems and Linux<br><br>
+<img src="/resources/chip-svgrepo.svg" style="width:18px;">&nbsp;Learning and working on projects with STM32 microcontrollers and FreeRTOS<br><br>
+🤝 Open to exciting project collaborations<br><br>
 📧 You can contact me at zeyad.attia102@gmail.com<br><br>
-🚀 I love rocket science
+🚀 Enthusiast of rocket science
 
 
 ## 🌐 Socials:
