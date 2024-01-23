@@ -3,7 +3,7 @@
 🧠 I am currently learning Machine Learning<br>
 🤝 Open to collaborating on exciting projects<br>
 📧 You can contact me at zeyad.attia102@gmail.com<br>
-☕ Enthusiast of coffee
+☕ I am an enthusiast of coffee
 
 
 ## 🌐 Socials:
