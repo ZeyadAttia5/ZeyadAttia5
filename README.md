@@ -1,8 +1,8 @@
 # <picture><img src = "resources/about_me.gif" width = 70px></picture> **About Me**
-🎓 Computer Science and Engineering Student
-🧠 I am currently learning Machine Learning
-🤝 Open to collaborating on exciting projects<br><br>
-📧 You can contact me at zeyad.attia102@gmail.com<br><br>
+🎓 Computer Science and Engineering Student<br>
+🧠 I am currently learning Machine Learning<br>
+🤝 Open to collaborating on exciting projects<br>
+📧 You can contact me at zeyad.attia102@gmail.com<br>
 ☕ Enthusiast of coffee
 
 
