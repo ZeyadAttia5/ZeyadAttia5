@@ -27,7 +27,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Bare%20Metal%20Programming](https://img.shields.io/badge/Bare%20Metal%20Programming%20-%232370ED.svg?style=for-the-badge&logo=Bare%20Metal%20Programming&logoColor=white)
 ![ARM](https://img.shields.io/badge/Arm%20-%232370ED.svg?style=for-the-badge&logo=arm&logoColor=333E48)
-![AVR](https://img.shields.io/badge/Avr%20-%232370ED.svg?style=for-the-badge&logo=avr&logoColor=white) 
+<!-- ![AVR](https://img.shields.io/badge/Avr%20-%232370ED.svg?style=for-the-badge&logo=avr&logoColor=white) -->
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX%20-%232370ED.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Yocto Project](https://img.shields.io/badge/The%20Yocto%20Project-%23000000.svg?style=for-the-badge&logo=TheYoctoProject)
