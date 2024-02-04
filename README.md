@@ -1,6 +1,6 @@
 # <picture><img src = "resources/about_me.gif" width = 70px></picture> **About Me**
 🎓 Computer Science and Engineering Student<br>
-🧠 I am currently embedded Linux<br>
+🧠 I am currently learning embedded Linux<br>
 🤝 Open to collaborating on exciting projects<br>
 📧 You can contact me at zeyad.attia102@gmail.com<br>
 ☕ I am an enthusiast of coffee
