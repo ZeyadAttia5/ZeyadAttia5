@@ -27,7 +27,6 @@
 ![Yocto Project](https://img.shields.io/badge/The%20Yocto%20Project-%23000000.svg?style=for-the-badge&logo=TheYoctoProject)
 <!-- ![Bare%20Metal%20Programming](https://img.shields.io/badge/Bare%20Metal%20Programming%20-%232370ED.svg?style=for-the-badge&logo=Bare%20Metal%20Programming&logoColor=white) -->
 <!-- ![AVR](https://img.shields.io/badge/Avr%20-%232370ED.svg?style=for-the-badge&logo=avr&logoColor=white) -->
-
 <!-- Miscellaneous -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/qiskit-%23F05033.svg?style=for-the-badge&logo=qiskit&logoColor=white)
@@ -36,11 +35,9 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 <!-- ![Prolog](https://img.shields.io/badge/prolog%20-%2314354C.svg?style=for-the-badge&logo=prolog&logoColor=gray) -->
 <!-- ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)  -->
-
 <!-- Java-related -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
 <!-- Web Stuff -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![react](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
@@ -48,7 +45,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 <!-- ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) -->
-
 
 
 
