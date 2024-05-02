@@ -24,10 +24,8 @@
 ![Qiskit](https://img.shields.io/badge/qiskit-%23F05033.svg?style=for-the-badge&logo=qiskit&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python) 
-![Prolog](https://img.shields.io/badge/prolog%20-%2314354C.svg?style=for-the-badge&logo=prolog&logoColor=gray)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Bare%20Metal%20Programming](https://img.shields.io/badge/Bare%20Metal%20Programming%20-%232370ED.svg?style=for-the-badge&logo=Bare%20Metal%20Programming&logoColor=white)
 ![ARM](https://img.shields.io/badge/Arm%20-%232370ED.svg?style=for-the-badge&logo=arm&logoColor=333E48)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX%20-%232370ED.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
@@ -37,6 +35,9 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+<!-- ![Bare%20Metal%20Programming](https://img.shields.io/badge/Bare%20Metal%20Programming%20-%232370ED.svg?style=for-the-badge&logo=Bare%20Metal%20Programming&logoColor=white) -->
+<!-- ![Prolog](https://img.shields.io/badge/prolog%20-%2314354C.svg?style=for-the-badge&logo=prolog&logoColor=gray) -->
 <!-- ![AVR](https://img.shields.io/badge/Avr%20-%232370ED.svg?style=for-the-badge&logo=avr&logoColor=white) -->
 <!-- ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)  -->
 <!-- ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) -->
