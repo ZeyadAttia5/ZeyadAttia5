@@ -23,7 +23,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ARM](https://img.shields.io/badge/Arm%20-%232370ED.svg?style=for-the-badge&logo=arm&logoColor=333E48)
-![Yocto Project](https://img.shields.io/badge/The%20Yocto%20Project-%23000000.svg?style=for-the-badge&logo=TheYoctoProject) 
+![Scikit-Learn](https://camo.githubusercontent.com/0ad18fa0ec11eec42003562b40a61f4d8643454535b4f3b167bdde4a308b8491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <!-- Miscellaneous -->
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/qiskit-%23F05033.svg?style=for-the-badge&logo=qiskit&logoColor=white)
