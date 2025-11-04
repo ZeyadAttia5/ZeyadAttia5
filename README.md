@@ -1,4 +1,4 @@
-# <picture><img src = "resources/about_me.gif" width = 70px></picture> **About Me**
+# 💫 **About Me**
 🎓 Computer Science and Engineering Student<br>
 🧠 I am currently learning Machine Learning<br>
 🤝 Open to collaborating on exciting projects<br>
