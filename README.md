@@ -1,6 +1,6 @@
 # 💫 **About Me**
 🎓 Computer Science and Engineering Student<br>
-🧠 I am currently learning Machine Learning<br>
+🧠 I am currently focusing on AI Engineering contributions in Open Source Software<br>
 🤝 Open to collaborating on exciting projects<br>
 📧 You can contact me at zeyad.attia102@gmail.com<br>
 ☕ I am a coffee enthusiast
